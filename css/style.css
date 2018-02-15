@@ -1,0 +1,29 @@
+.padding-page {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.padding-left-right {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.padding-topic {
+    padding-top: 30px;
+}
+
+.padding-top-right {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.no-margin-left-right {
+    margin-left: 0px;
+    margin-right: 0px;
+}
